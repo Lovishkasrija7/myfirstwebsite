@@ -2,22 +2,57 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "About Me",
+    "title": "Lovish Kasrija",
     "section": "",
-    "text": "Thanks for checking out my web site!"
+    "text": "To work as a soil scientist and serve farmers\n\n\n\nM.S in Biological Sciences- Tennessee State University\nBS in Agriculture- Punjab Agricultural University\n\n\n\nGraduate Research Assistant- Tennessee State University\nStudent Intern- Punjab Agricultural University\nThanks for checking out my web site!"
+  },
+  {
+    "objectID": "index.html#goals",
+    "href": "index.html#goals",
+    "title": "Lovish Kasrija",
+    "section": "",
+    "text": "To work as a soil scientist and serve farmers"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Lovish Kasrija",
+    "section": "",
+    "text": "M.S in Biological Sciences- Tennessee State University\nBS in Agriculture- Punjab Agricultural University"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Lovish Kasrija",
+    "section": "",
+    "text": "Graduate Research Assistant- Tennessee State University\nStudent Intern- Punjab Agricultural University"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Effects of biochar and nitrogen fertilization on switchgrass productivity and nitrous oxide emissions"
+  },
+  {
+    "objectID": "projects.html#project-1",
+    "href": "projects.html#project-1",
+    "title": "Projects",
+    "section": "",
+    "text": "Effects of biochar and nitrogen fertilization on switchgrass productivity and nitrous oxide emissions"
   },
   {
     "objectID": "projects.html#project-2",
     "href": "projects.html#project-2",
     "title": "Projects",
     "section": "Project 2",
-    "text": "Project 2"
+    "text": "Project 2\nEffects of biochar and nitrogen fertilization on soil microbial abundance"
   },
   {
     "objectID": "projects.html#project-3",
     "href": "projects.html#project-3",
     "title": "Projects",
     "section": "Project 3",
-    "text": "Project 3"
+    "text": "Project 3\nEffects of no-tillage and reduced tillage on greenhouse gas emissions, soil organic carbon and crop productivity"
   }
 ]
