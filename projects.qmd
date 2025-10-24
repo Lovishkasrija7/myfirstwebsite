@@ -3,8 +3,6 @@ title: "Projects"
 ---
 
 ## Project 1
-put some name of the project.
-
 
 Effects of biochar and nitrogen fertilization on switchgrass productivity and nitrous oxide emissions
 
