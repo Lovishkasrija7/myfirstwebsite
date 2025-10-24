@@ -53,6 +53,31 @@
     "href": "projects.html#project-3",
     "title": "Projects",
     "section": "Project 3",
+<<<<<<< HEAD
     "text": "Project 3\nEffects of no-tillage and reduced tillage on greenhouse gas emissions, soil organic carbon and crop productivity"
+=======
+    "text": "Project 3"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Thanks for checking out my web site!"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "put some name of the project."
+  },
+  {
+    "objectID": "projects.html#project-1",
+    "href": "projects.html#project-1",
+    "title": "Projects",
+    "section": "",
+    "text": "put some name of the project."
+>>>>>>> cbeee45c5452e0855c9c28f6cba52ada865c8780
   }
 ]
