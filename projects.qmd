@@ -3,7 +3,8 @@ title: "Projects"
 ---
 
 ## Project 1
-
+Effects of biochar and nitrogen fertilization on switchgrass productivity and nitrous oxide emissions
 ## Project 2
-
+Effects of biochar and nitrogen fertilization on soil microbial abundance
 ## Project 3
+Effects of no-tillage and reduced tillage on greenhouse gas emissions, soil organic carbon and crop productivity
